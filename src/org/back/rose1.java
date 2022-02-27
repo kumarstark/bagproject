@@ -5,6 +5,9 @@ public class rose1 {
 		System.out.println("rs 78");
 		System.out.println("rs2879");
 		System.out.println("rs38524");
+		System.out.println("DAD");
+		System.out.println("MAM");
+		System.out.println("DEEPU");
 		
 		
 		
